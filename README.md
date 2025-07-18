@@ -222,3 +222,23 @@
   </script>
 </body>
 </html>
+<section class="section" id="team">
+  <h2>Meet Our Team</h2>
+  <div class="services">
+    <div class="card">
+      <img src="https://i.pravatar.cc/150?img=1" alt="Team member" style="border-radius: 50%; width: 100px;">
+      <h3>Jane Doe</h3>
+      <p>CEO & Founder</p>
+    </div>
+    <div class="card">
+      <img src="https://i.pravatar.cc/150?img=2" alt="Team member" style="border-radius: 50%; width: 100px;">
+      <h3>John Smith</h3>
+      <p>Lead Developer</p>
+    </div>
+    <div class="card">
+      <img src="https://i.pravatar.cc/150?img=3" alt="Team member" style="border-radius: 50%; width: 100px;">
+      <h3>Lisa Ray</h3>
+      <p>UI/UX Designer</p>
+    </div>
+  </div>
+</section>
